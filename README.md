@@ -6,3 +6,4 @@ Getting and cleaning data course assinment
 # varhandle library is used for unfactor
 # the required columns are extracted and properly named 
 # via t_label variable, every observation is properly (descriptively) labeled for the type of activity of the any given subject at any #given observation  
+ 
