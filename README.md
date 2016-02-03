@@ -7,3 +7,4 @@ Getting and cleaning data course assinment
 # the required columns are extracted and properly named 
 # via t_label variable, every observation is properly (descriptively) labeled for the type of activity of the any given subject at any #given observation  
  
+# (It's still a mess, I just submitted whatever I had in order to meet the deadline, I'm finishing it hopefully before feb8th.
